@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Mr."
+title                    : "MAIN"
 title_separator          : "-"
 name                     : &name "Bole Zhang"
 description              : &description "personal description"
@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Bole Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A top-ranking Computer Science student at China Jiliang University, specializing in artificial intelligence and material science innovation. With a passion for transforming complex data into groundbreaking solutions, he leads projects that blend technology with real-world applications."
+  location         : "China"
+  employer         : "China Jiliang University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "1437259673@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=rSarhw8AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-0005-9372"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "404"
   researchgate     : # URL
 
   # Repositories and software development
