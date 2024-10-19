@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Profile of Bole Zhang"
+title: "Profile of Bole Zhang(not finished)"
 author_profile: true
 redirect_from: 
   - /about/
