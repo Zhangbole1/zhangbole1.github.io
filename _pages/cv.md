@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+u can download my cv in pdf
+'http://zhangbole1.github.io/files/cv.pdf'
+
 Education
 ======
 * M.S. in Hongkong, 2025 (expected)
